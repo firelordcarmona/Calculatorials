@@ -1,2 +1,3 @@
 # abacus
-Learning to code, this is my first project
+Learning to code, this is my first project. This is my first commitment to coding, I will freestyle my way into coding. It's not practical but it gets the job done. I will make a calculator that looks like one of those old Casio calculators. More specifically something like the fx-260
+I will be using python and html (for the website)
